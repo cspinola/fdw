@@ -1,0 +1,10 @@
+/* Criando a classe citação */
+.citacao {
+    text-align: right;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.destaque {
+    background-color: yellow;
+}

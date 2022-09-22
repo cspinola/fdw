@@ -1,0 +1,31 @@
+p {
+    font-family: serif;
+    color: blueviolet;
+}
+
+.borda1 {
+    border: solid 2px blue;
+    margin-left: 50px;
+}
+
+.borda2 {
+    border: dotted 5px red;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.borda3 {
+    border: dashed 5px green;
+    margin: 50px 75px 50px 100px;
+    /* top right botton left*/
+}
+
+.box1 {
+    height: 100px;
+    width: 50%;
+    background-color: #dddddd;
+    border: solid 10px #000000;
+    margin-left: 75px;
+    margin-top: 50px;
+    padding: 15px;
+}
